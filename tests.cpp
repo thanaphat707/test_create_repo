@@ -14,7 +14,7 @@ TEST(SquareRootTest, PositiveNos) {
 void hello()
 {
     int a;
-    a++;
+   
 }
 
 int main(int argc, char **argv) {
