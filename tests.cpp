@@ -14,8 +14,11 @@ TEST(SquareRootTest, PositiveNos) {
 void hello()
 {
     int a;
+    printf("sasdadad");
    
 }
+
+
 
 int main(int argc, char **argv) {
     testing::InitGoogleTest(&argc, argv);
