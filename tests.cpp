@@ -14,7 +14,7 @@ TEST(SquareRootTest, PositiveNos) {
 void hello()
 {
     int a;
-    printf("sasdadad");   // comment
+    printf("SATUUUUUUU");   // comment
    
 }
 
